@@ -10,3 +10,6 @@ function give_back([student]){
 result = give_back()
 
 console.log(result)
+
+const answer = (["Fatma","Mohamed","Ali"]) => {return student[i]};
+
